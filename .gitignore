@@ -1,0 +1,6 @@
+*.pyc
+*.so
+sum.c
+production_settings.py
+flaskito-cython/build/*
+run.py
